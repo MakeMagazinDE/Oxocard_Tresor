@@ -4,12 +4,12 @@ Maker Media GmbH
 
 ***
 
-# Universaler Fräs- und Sägetisch
+# Tresorsteuerung mit der Oxocard
 
-### Mit unseren Umbauideen wird aus einer normalen Tischkreissäge eine Fräs-Sagekombination.
+### Am Beispiel eines Smartphone-Tresors zeigen wir, wie man mit dem Oxocard Connect Innovator Kit, einem 3D-Drucker sowie etwas Elektronik programmierbare Schlösser und Safes entwickelt.
 
-Platznot ist ein chronisches Problem in vielen Bastelräumen. Zum Glück wird aus einer Tischkreissäge schnell und günstig ein universaler Fräs- und Sägetisch.
+Das Projekt unseres Smartphone-Tresors ist ein vereinfachtes Beispiel für einen programmgesteuerten Verschlussmechanismus. Er zeigt alle wesentlichen Elemente einer elektronisch abgesicherten Ablage. Durch die eher modellhafte Ausführung bietet der Tresor jedoch keine effektive Absicherung gegen Diebstahl und auch keinen Schutz vor gewaltsamen Öffnungsversuchen.
 
 ![Picture](./aufmacher.jpg)
 
-Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 5/19 ab Seite 118](https://www.heise.de/select/make/2019/5/1571592996373573). Hier finden Sie die 3D-Druckdateien für die Absaugung.
+Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 1/2024 ab Seite 767](https://www.heise.de/select/make/2021/1/2433910000196521552). Hier finden Sie die 3D-Druckdateien für die Absaugung.
