@@ -12,4 +12,4 @@ Das Projekt unseres Smartphone-Tresors ist ein vereinfachtes Beispiel für einen
 
 ![Picture](./aufmacher.jpg)
 
-Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 1/2025 ab Seite 76](https://www.heise.de/select/make/2025/1/2433910000196521552). Hier finden Sie die 3D-Druckdateien sowie die Programme für die NanoPy-IDE als Download.
+Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 1/2025 ab Seite 120](https://www.heise.de/select/make/2025/1/2433910000196521552). Hier finden Sie die 3D-Druckdateien sowie die Programme für die NanoPy-IDE als Download.
